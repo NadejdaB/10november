@@ -1,0 +1,68 @@
+.phototop{
+width: 100%;
+
+}
+.phototop img{
+  width: 100%;
+  height: 50%;
+}
+  .main{
+    width: 70%;
+  }
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+ 
+}
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-indent: 50px;
+}
+.photoline{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.photoline img{
+  width: 33%;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
